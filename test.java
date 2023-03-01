@@ -1,4 +1,5 @@
 Class TEST
 {
-init i=10;
+int i=10;
+int j=20;
 }
